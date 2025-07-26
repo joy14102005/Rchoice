@@ -16,4 +16,40 @@ It focuses on showcasing dresses like kurtis in a stylish and organized layout, 
 ---
 
 ## 📁 Folder Structure
+Rchoice/
+├── index.html # Main homepage with products
+├── style.css # Styling for the website
+├── images/ # Folder for dress images (optional)
+└── README.md # This file
+
+
+---
+
+## 🚀 Getting Started
+
+1. Clone or download this repository.
+2. Open `index.html` in your browser.
+3. Customize content, add more dresses, or style it more using CSS.
+
+---
+
+## 📸 Screenshot
+
+![Homepage Screenshot](add_your_screenshot_link_here)
+
+---
+
+## 📬 Contact
+
+If you have suggestions or want to collaborate:
+
+- **Email:** yourname@example.com  
+- **Portfolio:** [YourPortfolioLink.com](https://yourlink.com)
+
+---
+
+## 📝 License
+
+This project is open-source and free to use for educational purposes.
+
 
