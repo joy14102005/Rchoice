@@ -33,18 +33,11 @@ Rchoice/
 
 ---
 
-## 📸 Screenshot
-
-![Homepage Screenshot](add_your_screenshot_link_here)
-
----
-
 ## 📬 Contact
 
 If you have suggestions or want to collaborate:
 
-- **Email:** yourname@example.com  
-- **Portfolio:** [YourPortfolioLink.com](https://yourlink.com)
+- **Email:** joyyy1410@gmail.com 
 
 ---
 
